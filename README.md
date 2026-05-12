@@ -1,7 +1,7 @@
 
 > **Note**
-> This repository accompanies the manuscript *"Decoupled Magnitude-Angle Distillation for Lightweight Face Recognition and Offline Edge Deployment"*, currently under review at *The Visual Computer*. If you find this code useful in your research, please cite the manuscript when it becomes available.
-
+> This repository accompanies the manuscript *"Decoupled Magnitude-Angle Distillation for Lightweight Face Recognition and Offline Edge Deployment"*, currently under peer review. If you find this code useful in your research, please cite the manuscript when it becomes available.
+> 
 # DMAD for Lightweight Face Recognition
 
 Reference implementation of decoupled magnitude-angle distillation for lightweight face recognition and offline edge deployment.
